@@ -1,0 +1,6 @@
+Django
+djangorestframework
+djangorestframework-jwt
+django-filter
+MySQL-python
+django-cors-headers
